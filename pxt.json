@@ -9,6 +9,7 @@
     "files": [
         "README.md",
         "huskylens.ts",
+        "Bit_IR.cpp",
         "ReceiverIR.cpp",
         "ReceiverIR.h",
         "RemoteIR.h",
