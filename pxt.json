@@ -9,10 +9,6 @@
     "files": [
         "README.md",
         "huskylens.ts",
-        "Bit_IR.cpp",
-        "ReceiverIR.cpp",
-        "ReceiverIR.h",
-        "RemoteIR.h",
         "_locales/zh-cn/Huskylens-strings.json",
         "i2c.cpp",
         "_locales/zh-tw/Huskylens-strings.json",
