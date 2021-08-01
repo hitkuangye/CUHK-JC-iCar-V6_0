@@ -1,0 +1,30 @@
+{
+    "name": "Huskylens",
+    "version": "2.0.3",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "neopixel": "github:lzty634158/pxt-neopixel"
+    },
+    "files": [
+        "README.md",
+        "huskylens.ts",
+        "Bit_IR.cpp",
+        "ReceiverIR.cpp",
+        "ReceiverIR.h",
+        "RemoteIR.h",
+        "_locales/zh-cn/Huskylens-strings.json",
+        "i2c.cpp",
+        "_locales/zh-tw/Huskylens-strings.json",
+        "shims.d.ts",
+        "enums.d.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": true,
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "tsprj"
+}
